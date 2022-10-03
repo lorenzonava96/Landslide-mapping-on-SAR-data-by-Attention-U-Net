@@ -1,5 +1,8 @@
 ## Here you can find sample data in the numpy array format (.npy).
 
+Satellite: Sentinel-1
+
+Orbit: Ascending
 
 Patch size: 64 x 64 x 4
 
