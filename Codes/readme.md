@@ -18,3 +18,5 @@
                       results/
                              "the notebook will save a .csv file containing all details of each 
                               models with respectives evaluation scores on the test data"           
+
+Credits for the Attention U-Net architecture: [Abraham et al., (2019)](https://ieeexplore.ieee.org/abstract/document/8759329).
